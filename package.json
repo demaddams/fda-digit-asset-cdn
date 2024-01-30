@@ -1,0 +1,6 @@
+{
+    "name": "fda-digit-asset-cdn",
+    "version": "1.0.0",
+    "files": ["dist", "images"]
+  }
+  
